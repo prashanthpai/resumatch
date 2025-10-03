@@ -1,0 +1,9 @@
+anthropic
+streamlit
+pdfplumber
+pypdf
+python-docx
+docx2txt
+pandas
+rapidfuzz
+watchdog
